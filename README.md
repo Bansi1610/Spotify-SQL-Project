@@ -1,1 +1,2 @@
 # Spotify-Project
+This project performs SQL analysis on Spotify music data, including songs, artists, albums, playlists, and streaming activity. It uses SQL queries such as joins, subqueries, group-by, and aggregate functions to explore trends like most-streamed songs, popular artists, genre preferences, and listening behavior. The goal is to extract meaningful insights from Spotify-style datasets using structured query techniques.
